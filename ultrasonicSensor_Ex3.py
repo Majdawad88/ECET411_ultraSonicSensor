@@ -1,4 +1,5 @@
-git clone https://github.com/Majdawad88/ECET411_rotaryEncoder.git
+#  git clone https://github.com/Majdawad88/ECET411_ultraSonicSensor.git
+
 
 
 import RPi.GPIO as GPIO
